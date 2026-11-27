@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+mlxtend
+deepchecks
+prefect
+fastapi
+uvicorn
+pytest
+joblib
