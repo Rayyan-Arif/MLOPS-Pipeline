@@ -1,0 +1,4 @@
+task,version,model_name,accuracy,f1_score,mae,rmse,r2
+classification,final_improved,gaussian_nb_log1p_scaled,0.9755,0.0663,,,
+regression,final_improved,decision_tree_depth_7_leaf_300,,,17.9,68.73,0.0302
+timeseries,final_improved,decision_tree_depth_5_leaf_5,,,14524.58,24185.82,0.0798

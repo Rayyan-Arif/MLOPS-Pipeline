@@ -1,0 +1,8 @@
+task,model_name,accuracy,f1_score,mae,rmse,r2
+classification,logistic_regression,0.9814,0.0068,,,
+classification,naive_bayes,0.9796,0.0707,,,
+classification,decision_tree_depth_5,0.6385,0.0585,,,
+regression,ridge_regression,,,17.89,68.52,0.0362
+regression,decision_tree_depth_5,,,17.97,68.41,0.0393
+timeseries,decision_tree_depth_5,,,14524.58,24185.82,0.0798
+timeseries,svr_rbf,,,20800.73,30169.79,-0.4319
